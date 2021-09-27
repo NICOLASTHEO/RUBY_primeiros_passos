@@ -1,6 +1,6 @@
 
-variavel = 'Theo'
-puts 'olá ' + variavel + "!"
+variavel = 'Theo'+ ", bem vindo"
+puts 'olá ' + variavel 
 puts 'olá ' <<variavel << " tudo blz?!?"
 
 

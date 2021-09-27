@@ -3,5 +3,5 @@
 # PUTS --> imprimira o resultado na tela.
 
 puts "Informe seu nome:  "
-variavel = GETS
+variavel = gets 
 puts "meu nome é #{variavel}"

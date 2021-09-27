@@ -15,4 +15,4 @@ variavel2 = 2
 variavel.to_i 
 puts variavel.to_i + 2
 
-puts variavel2.to_s
+puts variavel2.to_s + 1.to_s
